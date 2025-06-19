@@ -24,7 +24,6 @@ A simple React app that demonstrates two-way communication between components:
 
 * Controlled input field tied to state using useState
 * Lifts state up from child (Form) to parent (App) using a callback function
-* Reset Timer – Reset the display back to 00:00:00.
 * Demonstrates real-time text transfer from child to parent
 
 ## Summary
